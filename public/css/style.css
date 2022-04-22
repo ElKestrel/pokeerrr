@@ -1,0 +1,69 @@
+body{
+    background-image: url("../image/pokertable.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.croup{
+    position: relative;
+    height: 200px;
+    left: 650px;
+}
+.bmw{
+    height: 80px
+}
+#place1{
+    position: relative;
+    margin-left: 150px;
+    bottom: 100px;
+}
+#place2{
+    position: relative;
+    margin-left: 150px;
+    top: 180px;
+}
+#place3{
+    position: relative;
+    margin-left: 550px;
+    top: 130px;
+}
+#place4{
+    position: relative;
+    margin-left: 1050px;
+    bottom: 80px;
+}
+#place5{
+    position: relative;
+    margin-left: 1050px;
+    bottom: 500px;
+}
+.placement{
+    position: relative;
+    margin-left: 550px;
+    bottom: 500px;
+}
+.placebrule{
+    position: relative;
+    bottom: 110px;
+}
+.placebrule2{
+    position: relative;
+    bottom: 110px;
+}
+.placebrule3{
+    position: relative;
+    bottom: 110px;
+}
+.revel4{
+    position: relative;
+    bottom: 102px;
+}
+.revel5{
+    position: relative;
+    bottom: 102px;
+}
+.revel3{
+    position: relative;
+    bottom: 15px;
+}
+
+
